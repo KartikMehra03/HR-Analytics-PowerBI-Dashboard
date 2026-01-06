@@ -13,9 +13,7 @@
 
 **Key Performance Indicators (KPIs)**
 
-**Total Emloyees**: 1470
-**Attrition**: 237
-**Active Employees**: 1233
+•**Total Emloyees**: 1470 •**Attrition**: 237 •**Active Employees**: 1233
 
 **Key Visual**
 

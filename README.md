@@ -19,4 +19,4 @@
 
 **Slicers**: Allows user to filter data by Martial Status and Education field. **Pie Chart**: Visualizes the Active Employees by each Department. **Stacked Column Chart**: Visualizes the Active Employees by Job Role. **Clustered Bar Chart**: Visualizes the Performance Ratings by each Department. **Donut Chart**: Visualizes the Employees Attrition Department wise. **Matrix**: Visualizes the Job Satisfaction Ratings.
 
-**Insights and Conclusions** • 1233 Active Employees with Research & Development has maximum Employees. • Sales Executive has maximun job roles, whereas Human Resource has minimum. • Research & Development has the best Performance Ratings. • Healthcare Represntatives has the most Job Satisfaction Ratings.
+**Insights and Conclusions** • 1233 Active Employees with Research & Development has highest Employees. • Sales Executive has highest job roles, whereas Human Resource has lowest. • Research & Development has the best Performance Ratings. • Healthcare Represntatives has the most Job Satisfaction Ratings.

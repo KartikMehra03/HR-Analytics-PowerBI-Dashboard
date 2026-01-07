@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Power BI Dashboard
 **HR-Analytics**: It is an interactive Power BI dashboard which is aims to analyze and visualize key workforce metrics to support strategic human resource decision-making. The dashboard provides key insights using KPIs and visualizations.
 
 🛠️ **Tech Stack**
